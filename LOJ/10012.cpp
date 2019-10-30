@@ -1,7 +1,6 @@
 #include<stdio.h>
 #define MAXN 100010
 #define INF 2147483647
-#define EPS 1e-6
 #define min(a, b) ((a) < (b) ? (a) : (b))
 #define max(a, b) ((a) > (b) ? (a) : (b))
 
